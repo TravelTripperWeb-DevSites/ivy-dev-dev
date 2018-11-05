@@ -1,8 +1,5 @@
 [
   {
-    "_template": "hero"
-  },
-  {
     "col2_html": {
       "content": "<p>Two!</p>"
     },
