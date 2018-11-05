@@ -1,5 +1,8 @@
 [
   {
+    "_template": "hero"
+  },
+  {
     "col2_html": {
       "content": "<p>Two!</p>"
     },
@@ -7,8 +10,5 @@
     "col1_html": {
       "content": "<p>One!</p>"
     }
-  },
-  {
-    "_template": "hero"
   }
 ]
