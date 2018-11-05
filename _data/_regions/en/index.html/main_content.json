@@ -3,6 +3,9 @@
     "col2_html": {
       "content": "<p>Two!</p>"
     },
-    "_template": "2_col"
+    "_template": "2_col",
+    "col1_html": {
+      "content": "<p>One!</p>"
+    }
   }
 ]
