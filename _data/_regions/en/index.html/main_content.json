@@ -11,7 +11,7 @@
     },
     "col2_type": "html",
     "style": "dark",
-    "layout": "9_3",
+    "layout": "2_10",
     "col1_type": "image",
     "include_gap": false,
     "col1_image": {
@@ -19,11 +19,11 @@
         "name": "Fancy Plated Option",
         "content_type": "image/jpeg",
         "date_added": "2018-11-09-153411",
-        "url_thumb": "http://res.cloudinary.com/traveltripperweb/image/upload/c_crop,h_480,w_371,x_0,y_0/c_fill,g_faces,h_140,w_140/v1541795651/hggu6qevffaqpgw4kspt.jpg",
-        "url_xsmall": "http://res.cloudinary.com/traveltripperweb/image/upload/c_crop,h_480,w_371,x_0,y_0/c_fit,h_300,w_300/v1541795651/hggu6qevffaqpgw4kspt.jpg",
-        "url_small": "http://res.cloudinary.com/traveltripperweb/image/upload/c_crop,h_480,w_371,x_0,y_0/c_fit,h_768,w_768/v1541795651/hggu6qevffaqpgw4kspt.jpg",
-        "url_medium": "http://res.cloudinary.com/traveltripperweb/image/upload/c_crop,h_480,w_371,x_0,y_0/c_fit,h_992,w_992/v1541795651/hggu6qevffaqpgw4kspt.jpg",
-        "url_large": "http://res.cloudinary.com/traveltripperweb/image/upload/c_crop,h_480,w_371,x_0,y_0/c_fit,h_1200,w_1200/v1541795651/hggu6qevffaqpgw4kspt.jpg",
+        "url_thumb": "http://res.cloudinary.com/traveltripperweb/image/upload/c_crop,h_450,w_293,x_169,y_30/c_fill,g_faces,h_140,w_140/v1541795651/hggu6qevffaqpgw4kspt.jpg",
+        "url_xsmall": "http://res.cloudinary.com/traveltripperweb/image/upload/c_crop,h_450,w_293,x_169,y_30/c_fit,h_300,w_300/v1541795651/hggu6qevffaqpgw4kspt.jpg",
+        "url_small": "http://res.cloudinary.com/traveltripperweb/image/upload/c_crop,h_450,w_293,x_169,y_30/c_fit,h_768,w_768/v1541795651/hggu6qevffaqpgw4kspt.jpg",
+        "url_medium": "http://res.cloudinary.com/traveltripperweb/image/upload/c_crop,h_450,w_293,x_169,y_30/c_fit,h_992,w_992/v1541795651/hggu6qevffaqpgw4kspt.jpg",
+        "url_large": "http://res.cloudinary.com/traveltripperweb/image/upload/c_crop,h_450,w_293,x_169,y_30/c_fit,h_1200,w_1200/v1541795651/hggu6qevffaqpgw4kspt.jpg",
         "width": 555,
         "height": 480,
         "format": "jpg",
@@ -42,11 +42,11 @@
         "alt": "Fancy Plated Option",
         "crop": {
           "origin": {
-            "x": 0,
-            "y": 0
+            "x": 169,
+            "y": 30
           },
-          "width": 371,
-          "height": 480
+          "width": 293,
+          "height": 450
         }
       },
       "_template": "image"
@@ -91,6 +91,48 @@
     "header_html": {
       "content": "<h1 style=\"text-align: center;\">&nbsp;</h1>\n<h1 style=\"text-align: center;\">Here's my header content</h1>\n<p>&nbsp;</p>"
     },
-    "include_footer": true
+    "include_footer": true,
+    "footer_html": {
+      "content": "<h3 style=\"text-align: center;\">&nbsp;</h3>\n<h3 style=\"text-align: center;\">Hey there footer</h3>\n<p>&nbsp;</p>"
+    }
+  },
+  {
+    "_template": "2_col",
+    "col2_type": "image",
+    "include_gap": true,
+    "layout": "6_6",
+    "col1_type": "html",
+    "col2_image": {
+      "content": {
+        "name": "Beach Treasures",
+        "content_type": "image/jpeg",
+        "date_added": "2018-11-09-153415",
+        "url_thumb": "http://res.cloudinary.com/traveltripperweb/image/upload/c_fill,g_faces,h_140,w_140/v1541795655/ldjebnak1tbypcocuthu.jpg",
+        "url_xsmall": "http://res.cloudinary.com/traveltripperweb/image/upload/c_fit,h_300,w_300/v1541795655/ldjebnak1tbypcocuthu.jpg",
+        "url_small": "http://res.cloudinary.com/traveltripperweb/image/upload/c_fit,h_768,w_768/v1541795655/ldjebnak1tbypcocuthu.jpg",
+        "url_medium": "http://res.cloudinary.com/traveltripperweb/image/upload/c_fit,h_992,w_992/v1541795655/ldjebnak1tbypcocuthu.jpg",
+        "url_large": "http://res.cloudinary.com/traveltripperweb/image/upload/c_fit,h_1200,w_1200/v1541795655/ldjebnak1tbypcocuthu.jpg",
+        "width": 1440,
+        "height": 640,
+        "format": "jpg",
+        "url": "https://res.cloudinary.com/traveltripperweb/image/upload/v1541795655/ldjebnak1tbypcocuthu.jpg",
+        "resource_type": "image",
+        "size": 790723,
+        "s3_url": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_16_86/media/2018-11-09-153614/ldjebnak1tbypcocuthu.jpg",
+        "s3_url_large": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_16_86/media/2018-11-09-153614/large_ldjebnak1tbypcocuthu.jpg",
+        "s3_url_medium": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_16_86/media/2018-11-09-153614/medium_ldjebnak1tbypcocuthu.jpg",
+        "s3_url_small": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_16_86/media/2018-11-09-153614/small_ldjebnak1tbypcocuthu.jpg",
+        "s3_url_xsmall": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_16_86/media/2018-11-09-153614/xsmall_ldjebnak1tbypcocuthu.jpg",
+        "s3_url_thumb": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_16_86/media/2018-11-09-153614/thumb_ldjebnak1tbypcocuthu.jpg",
+        "git_file_name": "_assets/image_data/artful.json",
+        "path": "https://res.cloudinary.com/traveltripperweb/image/upload/v1541795655/ldjebnak1tbypcocuthu.jpg",
+        "file_size": null,
+        "alt": "Beach Treasures"
+      },
+      "_template": "image"
+    },
+    "col1_html": {
+      "content": "<h4>Header</h4>\n<p>&nbsp;</p>\n<p>Hey, check out the hotel. It's pretty great. Lorem ipsum dolor sit amet etc stuff.&nbsp;<span style=\"font-size: 1rem;\">Hey, check out the hotel. It's pretty great. Lorem ipsum dolor sit amet etc stuff.</span><span style=\"font-size: 1rem;\">Hey, check out the hotel. It's pretty great. Lorem ipsum dolor sit amet etc stuff.</span><span style=\"font-size: 1rem;\">Hey, check out the hotel. It's pretty great. Lorem ipsum dolor sit amet etc stuff.</span></p>"
+    }
   }
 ]
