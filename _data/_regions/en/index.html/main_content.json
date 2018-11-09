@@ -13,6 +13,6 @@
     "style": "dark",
     "layout": "2_10",
     "col1_type": "html",
-    "include_gap": false
+    "include_gap": true
   }
 ]
