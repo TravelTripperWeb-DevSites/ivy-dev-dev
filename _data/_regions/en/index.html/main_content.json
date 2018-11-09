@@ -9,8 +9,10 @@
       "content": "<p>One!</p>",
       "style": "light"
     },
-    "col2_type": "",
-    "style": "",
-    "layout": "9_3"
+    "col2_type": "html",
+    "style": "dark",
+    "layout": "2_10",
+    "col1_type": "image",
+    "include_gap": false
   }
 ]
