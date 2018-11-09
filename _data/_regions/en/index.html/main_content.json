@@ -55,11 +55,11 @@
       "name": "Infinity Pool",
       "content_type": "image/jpeg",
       "date_added": "2018-11-09-153414",
-      "url_thumb": "http://res.cloudinary.com/traveltripperweb/image/upload/c_fill,g_faces,h_140,w_140/v1541795654/jrx2hpbiawyuhop7mgct.jpg",
-      "url_xsmall": "http://res.cloudinary.com/traveltripperweb/image/upload/c_fit,h_300,w_300/v1541795654/jrx2hpbiawyuhop7mgct.jpg",
-      "url_small": "http://res.cloudinary.com/traveltripperweb/image/upload/c_fit,h_768,w_768/v1541795654/jrx2hpbiawyuhop7mgct.jpg",
-      "url_medium": "http://res.cloudinary.com/traveltripperweb/image/upload/c_fit,h_992,w_992/v1541795654/jrx2hpbiawyuhop7mgct.jpg",
-      "url_large": "http://res.cloudinary.com/traveltripperweb/image/upload/c_fit,h_1200,w_1200/v1541795654/jrx2hpbiawyuhop7mgct.jpg",
+      "url_thumb": "http://res.cloudinary.com/traveltripperweb/image/upload/c_crop,h_262,w_928,x_0,y_106/c_fill,g_faces,h_140,w_140/v1541795654/jrx2hpbiawyuhop7mgct.jpg",
+      "url_xsmall": "http://res.cloudinary.com/traveltripperweb/image/upload/c_crop,h_262,w_928,x_0,y_106/c_fit,h_300,w_300/v1541795654/jrx2hpbiawyuhop7mgct.jpg",
+      "url_small": "http://res.cloudinary.com/traveltripperweb/image/upload/c_crop,h_262,w_928,x_0,y_106/c_fit,h_768,w_768/v1541795654/jrx2hpbiawyuhop7mgct.jpg",
+      "url_medium": "http://res.cloudinary.com/traveltripperweb/image/upload/c_crop,h_262,w_928,x_0,y_106/c_fit,h_992,w_992/v1541795654/jrx2hpbiawyuhop7mgct.jpg",
+      "url_large": "http://res.cloudinary.com/traveltripperweb/image/upload/c_crop,h_262,w_928,x_0,y_106/c_fit,h_1200,w_1200/v1541795654/jrx2hpbiawyuhop7mgct.jpg",
       "width": 1280,
       "height": 616,
       "format": "jpg",
@@ -77,7 +77,15 @@
       "file_size": null,
       "alt": "Infinity Pool",
       "caption": "",
-      "description": ""
+      "description": "",
+      "crop": {
+        "origin": {
+          "x": 0,
+          "y": 106
+        },
+        "width": 928,
+        "height": 262
+      }
     },
     "include_header": true,
     "header_html": {
