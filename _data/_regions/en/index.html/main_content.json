@@ -1,15 +1,16 @@
 [
   {
     "col2_html": {
-      "content": "<p>Two!</p>"
+      "content": "<p>Two!</p>",
+      "style": "brand-alt"
     },
     "_template": "2_col",
     "col1_html": {
       "content": "<p>One!</p>",
-      "style": "brand"
+      "style": "light"
     },
     "col2_type": "",
-    "style": "brand",
+    "style": "",
     "layout": "9_3"
   }
 ]
