@@ -6,7 +6,7 @@
     "_template": "2_col",
     "col1_html": {
       "content": "<p>One!</p>",
-      "style": "brand"
+      "style": "light"
     },
     "col2_type": "",
     "style": "",
