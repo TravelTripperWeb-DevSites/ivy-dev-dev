@@ -97,6 +97,10 @@
     }
   },
   {
-    "_template": "2_col"
+    "_template": "2_col",
+    "col2_type": "image",
+    "include_gap": true,
+    "layout": "6_6",
+    "col1_type": "html"
   }
 ]
