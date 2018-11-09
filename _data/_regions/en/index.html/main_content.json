@@ -7,6 +7,8 @@
     "col1_html": {
       "content": "<p>One!</p>",
       "style": "brand"
-    }
+    },
+    "col2_type": "",
+    "style": "brand"
   }
 ]
