@@ -91,6 +91,9 @@
     "header_html": {
       "content": "<h1 style=\"text-align: center;\">&nbsp;</h1>\n<h1 style=\"text-align: center;\">Here's my header content</h1>\n<p>&nbsp;</p>"
     },
-    "include_footer": true
+    "include_footer": true,
+    "footer_html": {
+      "content": "<h3 style=\"text-align: center;\">&nbsp;</h3>\n<h3 style=\"text-align: center;\">Hey there footer</h3>\n<p>&nbsp;</p>"
+    }
   }
 ]
