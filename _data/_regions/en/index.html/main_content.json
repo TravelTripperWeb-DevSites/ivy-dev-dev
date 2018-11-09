@@ -1,7 +1,7 @@
 [
   {
     "col2_html": {
-      "content": "<p>Two!</p>",
+      "content": "<div class=\"c-2-col__col-html-content c-2-col__col-html-content--brand-alt\">\n<p>Two!</p>\n<p>IOUHIuhsdgiuh</p>\n<p>segiouhsieghu</p>\n<p>'segsiegh</p>\n<p>segoiuhs'</p>\n<p>egseough</p>\n<p>sisuhegs</p>\n</div>",
       "style": "brand-alt"
     },
     "_template": "2_col",
