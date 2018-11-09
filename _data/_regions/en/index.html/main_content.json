@@ -10,7 +10,7 @@
       "style": "brand"
     },
     "col2_type": "html",
-    "style": "",
+    "style": "dark",
     "layout": "2_10",
     "col1_type": "image",
     "include_gap": true,
@@ -78,6 +78,7 @@
       "alt": "Infinity Pool",
       "caption": "",
       "description": ""
-    }
+    },
+    "include_header": true
   }
 ]
