@@ -167,6 +167,6 @@
       "content": "<h3 style=\"text-align: center;\">&nbsp;</h3>\n<h3 style=\"text-align: center;\">Hey there footer</h3>\n<p>&nbsp;</p>"
     },
     "full_bleed": false,
-    "fluid": true
+    "fluid": false
   }
 ]
