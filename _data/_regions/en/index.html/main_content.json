@@ -64,7 +64,8 @@
         "alt": "Skyline",
         "caption": "",
         "description": ""
-      }
+      },
+      "style": "brand-alt"
     },
     "container_classes": "",
     "style": ""
