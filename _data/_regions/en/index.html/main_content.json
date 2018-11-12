@@ -39,6 +39,10 @@
     }
   },
   {
+    "_template": "model_mosaic",
+    "model_id": "dining"
+  },
+  {
     "col2_html": {
       "content": "<p>Two!</p>\n<p>IOUHIuhsdgiuh</p>\n<p>segiouhsieghu</p>\n<p>'segsiegh</p>\n<p>segoiuhs'</p>\n<p>egseough</p>\n<p>sisuhegs</p>",
       "style": "brand",
@@ -162,9 +166,5 @@
     "footer_html": {
       "content": "<h3 style=\"text-align: center;\">&nbsp;</h3>\n<h3 style=\"text-align: center;\">Hey there footer</h3>\n<p>&nbsp;</p>"
     }
-  },
-  {
-    "_template": "model_mosaic",
-    "model_id": "dining"
   }
 ]
