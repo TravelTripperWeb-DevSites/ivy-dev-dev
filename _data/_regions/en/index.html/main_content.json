@@ -66,7 +66,8 @@
         "description": ""
       }
     },
-    "container_classes": ""
+    "container_classes": "",
+    "style": "black"
   },
   {
     "_template": "model_mosaic",
