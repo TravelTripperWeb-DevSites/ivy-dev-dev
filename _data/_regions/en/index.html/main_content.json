@@ -164,6 +164,7 @@
     }
   },
   {
-    "_template": "model_mosaic"
+    "_template": "model_mosaic",
+    "model_id": "dining"
   }
 ]
