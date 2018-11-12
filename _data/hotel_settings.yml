@@ -45,27 +45,33 @@ __EDITABLE_FIELDS__:
     longitude:
       type: float
 logo:
-  name: Exhibition Hall
+  name: Pool
   content_type: image/jpeg
-  date_added: 2018-11-09-153418
-  url_thumb: http://res.cloudinary.com/traveltripperweb/image/upload/c_fill,g_faces,h_140,w_140/v1541795658/s9p6yajkj9s4egssmdpb.jpg
-  url_xsmall: http://res.cloudinary.com/traveltripperweb/image/upload/c_fit,h_300,w_300/v1541795658/s9p6yajkj9s4egssmdpb.jpg
-  url_small: http://res.cloudinary.com/traveltripperweb/image/upload/c_fit,h_768,w_768/v1541795658/s9p6yajkj9s4egssmdpb.jpg
-  url_medium: http://res.cloudinary.com/traveltripperweb/image/upload/c_fit,h_992,w_992/v1541795658/s9p6yajkj9s4egssmdpb.jpg
-  url_large: http://res.cloudinary.com/traveltripperweb/image/upload/c_fit,h_1200,w_1200/v1541795658/s9p6yajkj9s4egssmdpb.jpg
-  width: 1440
-  height: 640
+  date_added: 2018-11-09-153412
+  url_thumb: http://res.cloudinary.com/traveltripperweb/image/upload/c_crop,h_177,w_555,x_0,y_254/c_fill,g_faces,h_140,w_140/v1541795652/oafjqoqtd0u3ald5fb34.jpg
+  url_xsmall: http://res.cloudinary.com/traveltripperweb/image/upload/c_crop,h_177,w_555,x_0,y_254/c_fit,h_300,w_300/v1541795652/oafjqoqtd0u3ald5fb34.jpg
+  url_small: http://res.cloudinary.com/traveltripperweb/image/upload/c_crop,h_177,w_555,x_0,y_254/c_fit,h_768,w_768/v1541795652/oafjqoqtd0u3ald5fb34.jpg
+  url_medium: http://res.cloudinary.com/traveltripperweb/image/upload/c_crop,h_177,w_555,x_0,y_254/c_fit,h_992,w_992/v1541795652/oafjqoqtd0u3ald5fb34.jpg
+  url_large: http://res.cloudinary.com/traveltripperweb/image/upload/c_crop,h_177,w_555,x_0,y_254/c_fit,h_1200,w_1200/v1541795652/oafjqoqtd0u3ald5fb34.jpg
+  width: 555
+  height: 480
   format: jpg
-  url: https://res.cloudinary.com/traveltripperweb/image/upload/v1541795658/s9p6yajkj9s4egssmdpb.jpg
+  url: https://res.cloudinary.com/traveltripperweb/image/upload/v1541795652/oafjqoqtd0u3ald5fb34.jpg
   resource_type: image
-  size: 1067007
-  s3_url: "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_16_86/media/2018-11-09-153506/s9p6yajkj9s4egssmdpb.jpg"
-  s3_url_large: "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_16_86/media/2018-11-09-153506/large_s9p6yajkj9s4egssmdpb.jpg"
-  s3_url_medium: "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_16_86/media/2018-11-09-153506/medium_s9p6yajkj9s4egssmdpb.jpg"
-  s3_url_small: "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_16_86/media/2018-11-09-153506/small_s9p6yajkj9s4egssmdpb.jpg"
-  s3_url_xsmall: "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_16_86/media/2018-11-09-153506/xsmall_s9p6yajkj9s4egssmdpb.jpg"
-  s3_url_thumb: "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_16_86/media/2018-11-09-153506/thumb_s9p6yajkj9s4egssmdpb.jpg"
-  git_file_name: _assets/image_data/exhibitions.json
-  path: https://res.cloudinary.com/traveltripperweb/image/upload/v1541795658/s9p6yajkj9s4egssmdpb.jpg
+  size: 199049
+  s3_url: "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_16_86/media/2018-11-09-153502/oafjqoqtd0u3ald5fb34.jpg"
+  s3_url_large: "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_16_86/media/2018-11-09-153502/large_oafjqoqtd0u3ald5fb34.jpg"
+  s3_url_medium: "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_16_86/media/2018-11-09-153502/medium_oafjqoqtd0u3ald5fb34.jpg"
+  s3_url_small: "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_16_86/media/2018-11-09-153502/small_oafjqoqtd0u3ald5fb34.jpg"
+  s3_url_xsmall: "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_16_86/media/2018-11-09-153502/xsmall_oafjqoqtd0u3ald5fb34.jpg"
+  s3_url_thumb: "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_16_86/media/2018-11-09-153502/thumb_oafjqoqtd0u3ald5fb34.jpg"
+  git_file_name: _assets/image_data/4grid-2.json
+  path: https://res.cloudinary.com/traveltripperweb/image/upload/v1541795652/oafjqoqtd0u3ald5fb34.jpg
   file_size: 
-  alt: Exhibition Hall
+  alt: Pool
+  crop:
+    origin:
+      x: 0
+      y: 254
+    width: 555
+    height: 177
