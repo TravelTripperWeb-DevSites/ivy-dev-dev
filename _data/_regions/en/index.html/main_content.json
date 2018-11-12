@@ -65,7 +65,8 @@
         "caption": "",
         "description": ""
       }
-    }
+    },
+    "container_classes": ""
   },
   {
     "_template": "model_mosaic",
