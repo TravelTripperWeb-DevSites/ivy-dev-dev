@@ -1,6 +1,6 @@
 [
   {
-    "content": "<p>Here's the content</p>",
+    "content": "<div>Here's the content</div>",
     "_template": "html"
   }
 ]
