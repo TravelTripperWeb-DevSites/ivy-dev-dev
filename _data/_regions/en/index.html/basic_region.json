@@ -1,6 +1,6 @@
 [
   {
-    "content": "<div class=\"container \" data-live-editable-type=\"html\" data-live-editable-key=\"html\">Here's the content</div>\n<div class=\"container \" data-live-editable-type=\"html\" data-live-editable-key=\"html\">In the default area.</div>\n<div class=\"container \" data-live-editable-type=\"html\" data-live-editable-key=\"html\">&nbsp;</div>",
+    "content": "<p>Here's the content&lt;/p</p>",
     "_template": "html"
   }
 ]
