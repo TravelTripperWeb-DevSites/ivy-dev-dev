@@ -1,12 +1,5 @@
 [
   {
-    "_template": "model_mosaic",
-    "model_id": "dining",
-    "header_html": {
-      "content": "<h1 style=\"text-align: center;\">&nbsp;Here's my header content!</h1>\n<p>&nbsp;</p>\n<p>&nbsp;</p>"
-    }
-  },
-  {
     "_template": "2_col",
     "col2_type": "image",
     "include_gap": true,
@@ -92,6 +85,13 @@
     },
     "container_classes": "",
     "style": ""
+  },
+  {
+    "_template": "model_mosaic",
+    "model_id": "dining",
+    "header_html": {
+      "content": "<h1 style=\"text-align: center;\">&nbsp;Here's my header content!</h1>\n<p>&nbsp;</p>\n<p>&nbsp;</p>"
+    }
   },
   {
     "col2_html": {
