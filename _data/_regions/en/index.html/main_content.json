@@ -1,7 +1,10 @@
 [
   {
     "_template": "model_mosaic",
-    "model_id": "dining"
+    "model_id": "dining",
+    "header_html": {
+      "content": "<h1 style=\"text-align: center;\">&nbsp;Here's my header content!</h1>\n<p>&nbsp;</p>\n<p>&nbsp;</p>"
+    }
   },
   {
     "_template": "2_col",
