@@ -50,7 +50,7 @@
       "_template": "image"
     },
     "col1_html": {
-      "content": "<h4>You'll love our hotel</h4>\n<p>&nbsp;</p>\n<p>Hey, check out the hotel. It's pretty great. Lorem ipsum dolor sit amet etc stuff.&nbsp;<span style=\"font-size: 1rem;\">Hey, check out the hotel. It's pretty great. Lorem ipsum dolor sit amet etc stuff.</span><span style=\"font-size: 1rem;\">Hey, check out the hotel. It's pretty great. Lorem ipsum dolor sit amet etc stuff.</span><span style=\"font-size: 1rem;\">Hey, check out the hotel. It's pretty great. Lorem ipsum dolor sit amet etc stuff!</span></p>",
+      "content": "<h4>You'll love our hotel!</h4>\n<p>&nbsp;</p>\n<p>Hey, check out the hotel. It's pretty great. Lorem ipsum dolor sit amet etc stuff.&nbsp;<span style=\"font-size: 1rem;\">Hey, check out the hotel. It's pretty great. Lorem ipsum dolor sit amet etc stuff.</span><span style=\"font-size: 1rem;\">Hey, check out the hotel. It's pretty great. Lorem ipsum dolor sit amet etc stuff.</span><span style=\"font-size: 1rem;\">Hey, check out the hotel. It's pretty great. Lorem ipsum dolor sit amet etc stuff!</span></p>",
       "custom_classes": "",
       "background_image": {
         "name": "Skyline",
