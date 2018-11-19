@@ -87,13 +87,6 @@
     "style": ""
   },
   {
-    "_template": "model_mosaic",
-    "model_id": "dining",
-    "header_html": {
-      "content": "<h1 style=\"text-align: center;\">&nbsp;Here's my header content!</h1>\n<p>&nbsp;</p>\n<p>&nbsp;</p>"
-    }
-  },
-  {
     "col2_html": {
       "content": "<p>Two!</p>\n<p>IOUHIuhsdgiuh</p>\n<p>segiouhsieghu</p>\n<p>'segsiegh</p>\n<p>segoiuhs'</p>\n<p>egseough</p>\n<p>sisuhegs</p>",
       "style": "brand",
@@ -220,5 +213,12 @@
     "full_bleed": false,
     "fluid": false,
     "container_classes": ""
+  },
+  {
+    "_template": "model_mosaic",
+    "model_id": "dining",
+    "header_html": {
+      "content": "<h1 style=\"text-align: center;\">&nbsp;Here's my header content!</h1>\n<p>&nbsp;</p>\n<p>&nbsp;</p>"
+    }
   }
 ]
