@@ -212,7 +212,7 @@
     },
     "full_bleed": false,
     "fluid": false,
-    "container_classes": ""
+    "container_classes": "container-fluid"
   },
   {
     "_template": "model_mosaic",
