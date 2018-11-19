@@ -204,7 +204,7 @@
     },
     "include_header": true,
     "header_html": {
-      "content": "<h1 style=\"text-align: center;\">&nbsp;</h1>\n<h1 style=\"text-align: center;\">Here's my header content</h1>\n<p>&nbsp;</p>"
+      "content": "<h1 style=\"text-align: center;\">&nbsp;</h1>\n<h1 style=\"text-align: center;\">Here's my header content</h1>\n<p>&nbsp;</p>\n<p>&nbsp;</p>"
     },
     "include_footer": true,
     "footer_html": {
