@@ -10,11 +10,11 @@
         "name": "Beach Treasures",
         "content_type": "image/jpeg",
         "date_added": "2018-11-09-153415",
-        "url_thumb": "http://res.cloudinary.com/traveltripperweb/image/upload/c_fill,g_faces,h_140,w_140/v1541795655/ldjebnak1tbypcocuthu.jpg",
-        "url_xsmall": "http://res.cloudinary.com/traveltripperweb/image/upload/c_fit,h_300,w_300/v1541795655/ldjebnak1tbypcocuthu.jpg",
-        "url_small": "http://res.cloudinary.com/traveltripperweb/image/upload/c_fit,h_768,w_768/v1541795655/ldjebnak1tbypcocuthu.jpg",
-        "url_medium": "http://res.cloudinary.com/traveltripperweb/image/upload/c_fit,h_992,w_992/v1541795655/ldjebnak1tbypcocuthu.jpg",
-        "url_large": "http://res.cloudinary.com/traveltripperweb/image/upload/c_fit,h_1200,w_1200/v1541795655/ldjebnak1tbypcocuthu.jpg",
+        "url_thumb": "http://res.cloudinary.com/traveltripperweb/image/upload/c_crop,h_483,w_1439,x_0,y_0/c_fill,g_faces,h_140,w_140/v1541795655/ldjebnak1tbypcocuthu.jpg",
+        "url_xsmall": "http://res.cloudinary.com/traveltripperweb/image/upload/c_crop,h_483,w_1439,x_0,y_0/c_fit,h_300,w_300/v1541795655/ldjebnak1tbypcocuthu.jpg",
+        "url_small": "http://res.cloudinary.com/traveltripperweb/image/upload/c_crop,h_483,w_1439,x_0,y_0/c_fit,h_768,w_768/v1541795655/ldjebnak1tbypcocuthu.jpg",
+        "url_medium": "http://res.cloudinary.com/traveltripperweb/image/upload/c_crop,h_483,w_1439,x_0,y_0/c_fit,h_992,w_992/v1541795655/ldjebnak1tbypcocuthu.jpg",
+        "url_large": "http://res.cloudinary.com/traveltripperweb/image/upload/c_crop,h_483,w_1439,x_0,y_0/c_fit,h_1200,w_1200/v1541795655/ldjebnak1tbypcocuthu.jpg",
         "width": 1440,
         "height": 640,
         "format": "jpg",
@@ -30,12 +30,20 @@
         "git_file_name": "_assets/image_data/artful.json",
         "path": "https://res.cloudinary.com/traveltripperweb/image/upload/v1541795655/ldjebnak1tbypcocuthu.jpg",
         "file_size": null,
-        "alt": "Beach Treasures"
+        "alt": "Beach Treasures",
+        "crop": {
+          "origin": {
+            "x": 0,
+            "y": 0
+          },
+          "width": 1439,
+          "height": 483
+        }
       },
       "_template": "image"
     },
     "col1_html": {
-      "content": "<h4>Header</h4>\n<p>&nbsp;</p>\n<p>Hey, check out the hotel. It's pretty great. Lorem ipsum dolor sit amet etc stuff.&nbsp;<span style=\"font-size: 1rem;\">Hey, check out the hotel. It's pretty great. Lorem ipsum dolor sit amet etc stuff.</span><span style=\"font-size: 1rem;\">Hey, check out the hotel. It's pretty great. Lorem ipsum dolor sit amet etc stuff.</span><span style=\"font-size: 1rem;\">Hey, check out the hotel. It's pretty great. Lorem ipsum dolor sit amet etc stuff.</span></p>",
+      "content": "<h4>You'll love our hotel</h4>\n<p>&nbsp;</p>\n<p>Hey, check out the hotel. It's pretty great. Lorem ipsum dolor sit amet etc stuff.&nbsp;<span style=\"font-size: 1rem;\">Hey, check out the hotel. It's pretty great. Lorem ipsum dolor sit amet etc stuff.</span><span style=\"font-size: 1rem;\">Hey, check out the hotel. It's pretty great. Lorem ipsum dolor sit amet etc stuff.</span><span style=\"font-size: 1rem;\">Hey, check out the hotel. It's pretty great. Lorem ipsum dolor sit amet etc stuff!</span></p>",
       "custom_classes": "",
       "background_image": {
         "name": "Skyline",
@@ -77,10 +85,6 @@
     },
     "container_classes": "",
     "style": ""
-  },
-  {
-    "_template": "model_mosaic",
-    "model_id": "dining"
   },
   {
     "col2_html": {
@@ -166,11 +170,11 @@
       "name": "Infinity Pool",
       "content_type": "image/jpeg",
       "date_added": "2018-11-09-153414",
-      "url_thumb": "http://res.cloudinary.com/traveltripperweb/image/upload/c_crop,h_325,w_928,x_0,y_139/c_fill,g_faces,h_140,w_140/v1541795654/jrx2hpbiawyuhop7mgct.jpg",
-      "url_xsmall": "http://res.cloudinary.com/traveltripperweb/image/upload/c_crop,h_325,w_928,x_0,y_139/c_fit,h_300,w_300/v1541795654/jrx2hpbiawyuhop7mgct.jpg",
-      "url_small": "http://res.cloudinary.com/traveltripperweb/image/upload/c_crop,h_325,w_928,x_0,y_139/c_fit,h_768,w_768/v1541795654/jrx2hpbiawyuhop7mgct.jpg",
-      "url_medium": "http://res.cloudinary.com/traveltripperweb/image/upload/c_crop,h_325,w_928,x_0,y_139/c_fit,h_992,w_992/v1541795654/jrx2hpbiawyuhop7mgct.jpg",
-      "url_large": "http://res.cloudinary.com/traveltripperweb/image/upload/c_crop,h_325,w_928,x_0,y_139/c_fit,h_1200,w_1200/v1541795654/jrx2hpbiawyuhop7mgct.jpg",
+      "url_thumb": "http://res.cloudinary.com/traveltripperweb/image/upload/c_crop,h_156,w_928,x_0,y_218/c_fill,g_faces,h_140,w_140/v1541795654/jrx2hpbiawyuhop7mgct.jpg",
+      "url_xsmall": "http://res.cloudinary.com/traveltripperweb/image/upload/c_crop,h_156,w_928,x_0,y_218/c_fit,h_300,w_300/v1541795654/jrx2hpbiawyuhop7mgct.jpg",
+      "url_small": "http://res.cloudinary.com/traveltripperweb/image/upload/c_crop,h_156,w_928,x_0,y_218/c_fit,h_768,w_768/v1541795654/jrx2hpbiawyuhop7mgct.jpg",
+      "url_medium": "http://res.cloudinary.com/traveltripperweb/image/upload/c_crop,h_156,w_928,x_0,y_218/c_fit,h_992,w_992/v1541795654/jrx2hpbiawyuhop7mgct.jpg",
+      "url_large": "http://res.cloudinary.com/traveltripperweb/image/upload/c_crop,h_156,w_928,x_0,y_218/c_fit,h_1200,w_1200/v1541795654/jrx2hpbiawyuhop7mgct.jpg",
       "width": 1280,
       "height": 616,
       "format": "jpg",
@@ -192,15 +196,15 @@
       "crop": {
         "origin": {
           "x": 0,
-          "y": 139
+          "y": 218
         },
         "width": 928,
-        "height": 325
+        "height": 156
       }
     },
     "include_header": true,
     "header_html": {
-      "content": "<h1 style=\"text-align: center;\">&nbsp;</h1>\n<h1 style=\"text-align: center;\">Here's my header content</h1>\n<p>&nbsp;</p>"
+      "content": "<h1 style=\"text-align: center;\">&nbsp;</h1>\n<h1 style=\"text-align: center;\">Here's my header content</h1>"
     },
     "include_footer": true,
     "footer_html": {
@@ -208,6 +212,13 @@
     },
     "full_bleed": false,
     "fluid": false,
-    "container_classes": ""
+    "container_classes": "container-fluid"
+  },
+  {
+    "_template": "model_mosaic",
+    "model_id": "dining",
+    "header_html": {
+      "content": "<h1 style=\"text-align: center;\">&nbsp;Here's my header content!</h1>\n<p>&nbsp;</p>\n<p>&nbsp;</p>"
+    }
   }
 ]
