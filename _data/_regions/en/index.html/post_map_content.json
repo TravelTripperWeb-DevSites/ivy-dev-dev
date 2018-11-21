@@ -6,6 +6,16 @@
     "style": "brand-alt"
   },
   {
-    "_template": "gallery"
+    "_template": "gallery",
+    "galleries": [
+      {
+        "label": "First one",
+        "gallery": "gallery_one"
+      },
+      {
+        "label": "Second One",
+        "gallery": "gallery_two"
+      }
+    ]
   }
 ]
