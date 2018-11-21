@@ -1,0 +1,22 @@
+{
+  "name": "White Ice",
+  "content_type": "image/jpeg",
+  "date_added": "2018-11-21-140139",
+  "url_thumb": "http://res.cloudinary.com/traveltripperweb/image/upload/c_fill,g_faces,h_140,w_140/v1542826900/ahtwh3azsjwxdjlyupsh.jpg",
+  "url_xsmall": "http://res.cloudinary.com/traveltripperweb/image/upload/c_fit,h_300,w_300/v1542826900/ahtwh3azsjwxdjlyupsh.jpg",
+  "url_small": "http://res.cloudinary.com/traveltripperweb/image/upload/c_fit,h_768,w_768/v1542826900/ahtwh3azsjwxdjlyupsh.jpg",
+  "url_medium": "http://res.cloudinary.com/traveltripperweb/image/upload/c_fit,h_992,w_992/v1542826900/ahtwh3azsjwxdjlyupsh.jpg",
+  "url_large": "http://res.cloudinary.com/traveltripperweb/image/upload/c_fit,h_1200,w_1200/v1542826900/ahtwh3azsjwxdjlyupsh.jpg",
+  "width": 2592,
+  "height": 1936,
+  "format": "jpg",
+  "url": "https://res.cloudinary.com/traveltripperweb/image/upload/v1542826900/ahtwh3azsjwxdjlyupsh.jpg",
+  "resource_type": "image",
+  "size": 1589752,
+  "s3_url": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_16_86/media/2018-11-21-140151/ahtwh3azsjwxdjlyupsh.jpg",
+  "s3_url_large": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_16_86/media/2018-11-21-140151/large_ahtwh3azsjwxdjlyupsh.jpg",
+  "s3_url_medium": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_16_86/media/2018-11-21-140151/medium_ahtwh3azsjwxdjlyupsh.jpg",
+  "s3_url_small": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_16_86/media/2018-11-21-140151/small_ahtwh3azsjwxdjlyupsh.jpg",
+  "s3_url_xsmall": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_16_86/media/2018-11-21-140151/xsmall_ahtwh3azsjwxdjlyupsh.jpg",
+  "s3_url_thumb": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_16_86/media/2018-11-21-140151/thumb_ahtwh3azsjwxdjlyupsh.jpg"
+}
