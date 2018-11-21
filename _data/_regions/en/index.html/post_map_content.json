@@ -4,5 +4,18 @@
     "content": "<p>Here's my Content and it's awesome and great yay!</p>\n<p>Test content</p>",
     "custom_classes": "w-100 d-flex flex-column h-100 justify-content-center",
     "style": "brand-alt"
+  },
+  {
+    "_template": "gallery",
+    "galleries": [
+      {
+        "label": "Second One",
+        "gallery": "gallery_two"
+      },
+      {
+        "label": "First one",
+        "gallery": "gallery_one"
+      }
+    ]
   }
 ]
