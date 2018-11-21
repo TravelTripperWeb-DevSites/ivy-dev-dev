@@ -9,12 +9,12 @@
     "_template": "gallery",
     "galleries": [
       {
-        "label": "Second One",
-        "gallery": "gallery_two"
-      },
-      {
         "label": "First one",
         "gallery": "gallery_one"
+      },
+      {
+        "label": "Second One",
+        "gallery": "gallery_two"
       }
     ]
   }
