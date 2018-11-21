@@ -8,7 +8,7 @@
     "en": "It's a short description"
   },
   "description_localized": {
-    "en": "<p>This goes on the detail page only?</p>"
+    "en": "<p>This goes on the detail page only?<img id=\"1542662622328\" class=\" \" src=\"http://res.cloudinary.com/traveltripperweb/image/upload/c_crop,h_337,w_483,x_0,y_0/c_fit,h_1200,w_1200/v1541795657/ofzxbnbp4p1pnls45s2x.jpg\" alt=\"Queen Bed\" width=\"252\" height=\"176\" data-image-large=\"http://res.cloudinary.com/traveltripperweb/image/upload/c_crop,h_337,w_483,x_0,y_0/c_fit,h_1200,w_1200/v1541795657/ofzxbnbp4p1pnls45s2x.jpg\" data-image-medium=\"http://res.cloudinary.com/traveltripperweb/image/upload/c_crop,h_337,w_483,x_0,y_0/c_fit,h_992,w_992/v1541795657/ofzxbnbp4p1pnls45s2x.jpg\" data-image-small=\"http://res.cloudinary.com/traveltripperweb/image/upload/c_crop,h_337,w_483,x_0,y_0/c_fit,h_768,w_768/v1541795657/ofzxbnbp4p1pnls45s2x.jpg\" data-image-xsmall=\"http://res.cloudinary.com/traveltripperweb/image/upload/c_crop,h_337,w_483,x_0,y_0/c_fit,h_300,w_300/v1541795657/ofzxbnbp4p1pnls45s2x.jpg\" data-image-thumb=\"http://res.cloudinary.com/traveltripperweb/image/upload/c_crop,h_337,w_483,x_0,y_0/c_fill,g_faces,h_140,w_140/v1541795657/ofzxbnbp4p1pnls45s2x.jpg\" /></p>"
   },
   "image": {
     "name": "Fancy Plated Option",
