@@ -112,6 +112,38 @@
         "width": 416,
         "height": 536
       }
+    },
+    {
+      "name": "hoteldivasfvideo",
+      "content_type": "video/mp4",
+      "date_added": "2018-11-27-124019",
+      "audio": {
+      },
+      "video": {
+        "pix_format": "yuv420p",
+        "codec": "h264",
+        "level": 31,
+        "profile": "Constrained Baseline",
+        "bit_rate": "5634901",
+        "dar": "16:9"
+      },
+      "bit_rate": 5636085,
+      "frame_rate": 25,
+      "duration": 24.12,
+      "format": "mp4",
+      "url": "https://res.cloudinary.com/traveltripperweb/video/upload/v1543340421/gvcaxs3on9hepkyzzwxx.mp4",
+      "resource_type": "video",
+      "size": 16992797,
+      "s3_url": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_16_86/media/2018-11-27-124032/hoteldivasfvideo",
+      "s3_url_large": null,
+      "s3_url_medium": null,
+      "s3_url_small": null,
+      "s3_url_xsmall": null,
+      "s3_url_thumb": null,
+      "git_file_name": "_assets/image_data/hoteldivasfvideo.json",
+      "path": "https://res.cloudinary.com/traveltripperweb/video/upload/v1543340421/gvcaxs3on9hepkyzzwxx.mp4",
+      "file_size": null,
+      "alt": "hoteldivasfvideo"
     }
   ],
   "description": "",
