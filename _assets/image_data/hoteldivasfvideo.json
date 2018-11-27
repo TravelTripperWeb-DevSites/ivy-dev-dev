@@ -18,5 +18,11 @@
   "format": "mp4",
   "url": "https://res.cloudinary.com/traveltripperweb/video/upload/v1543340421/gvcaxs3on9hepkyzzwxx.mp4",
   "resource_type": "video",
-  "size": 16992797
+  "size": 16992797,
+  "s3_url": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/11_16_86/media/2018-11-27-124032/hoteldivasfvideo",
+  "s3_url_large": null,
+  "s3_url_medium": null,
+  "s3_url_small": null,
+  "s3_url_xsmall": null,
+  "s3_url_thumb": null
 }
