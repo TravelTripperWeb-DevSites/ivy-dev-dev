@@ -1,0 +1,22 @@
+{
+  "name": "hoteldivasfvideo",
+  "content_type": "video/mp4",
+  "date_added": "2018-11-27-113441",
+  "audio": {
+  },
+  "video": {
+    "pix_format": "yuv420p",
+    "codec": "h264",
+    "level": 31,
+    "profile": "Constrained Baseline",
+    "bit_rate": "5634901",
+    "dar": "16:9"
+  },
+  "bit_rate": 5636085,
+  "frame_rate": 25.0,
+  "duration": 24.12,
+  "format": "mp4",
+  "url": "https://res.cloudinary.com/traveltripperweb/video/upload/v1543336483/ngugcm9vh8eclmxzqbmb.mp4",
+  "resource_type": "video",
+  "size": 16992797
+}
